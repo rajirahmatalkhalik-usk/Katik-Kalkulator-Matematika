@@ -20,7 +20,7 @@ int main() {
     char ulang;
 
     do {
-        printf("=== KATIK - Kalkulator Matematika ===\n");
+        printf("=== LUKEL - Penghitung Luas dan Keliling ===\n");
         menuBangun();
         printf("Pilih jenis bangun datar (1-8): ");
         scanf("%d", &pilihan);
@@ -51,7 +51,7 @@ int main() {
 
     } while (ulang == 'y' || ulang == 'Y');
 
-    printf("Terima kasih telah menggunakan KATIK!\n");
+    printf("Terima kasih telah menggunakan LUKEL!\n");
     return 0;
 }
 
