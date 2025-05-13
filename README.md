@@ -1,6 +1,6 @@
-# Katik - Kalkulator Matematika
+# LUKEL - Penghitung Luas dan Keliling Bangun Datar
 
-**Katik** adalah program kalkulator sederhana dalam bahasa C yang digunakan untuk menghitung **luas dan keliling bangun datar**. Program ini menampilkan **rumus** dan **hasil perhitungan** berdasarkan input variabel yang diberikan oleh pengguna, serta dilengkapi fitur validasi input dan opsi perhitungan ulang.
+***LUKEL*** adalah program kalkulator sederhana berbasis bahasa C yang dirancang untuk menghitung **luas** dan **keliling** berbagai **bangun datar**. Program ini menampilkan **rumus yang digunakan** dan **hasil perhitungan** berdasarkan input variabel yang diberikan oleh pengguna. Selain itu, ***LUKEL*** dilengkapi dengan **fitur validasi input** untuk memastikan data yang dimasukkan sesuai, serta **opsi perhitungan ulang** agar pengguna dapat menghitung lebih dari satu bangun datar dalam satu sesi program.
 
 ## Fitur Program
 
@@ -38,7 +38,7 @@ Jika terjadi input yang tidak valid (misal: pilihan bangun salah, pilihan luas/k
 ## Contoh Tampilan Program
 
 ```
-=== KATIK - Kalkulator Matematika ===
+=== LUKEL - Penghitung Luas dan Keliling ===
 
 Pilih Bangun Datar:
 1. Persegi
@@ -61,12 +61,12 @@ Luas persegi = 25.00
 
 Ingin menghitung lagi? (y/n): n
 
-Terima kasih telah menggunakan KATIK!
+Terima kasih telah menggunakan LUKEL!
 ```
 
 ## Sumber Referensi
 
-- Inspirasi format kalkulator dari: [https://katik.azurewebsites.net](https://katik.azurewebsites.net)
+- Struktur program terinspirasi dari: [https://katik.azurewebsites.net](https://katik.azurewebsites.net)
 
 ---
 
